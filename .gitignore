@@ -1,0 +1,16 @@
+*__pycache__
+.*
+debug.json
+*.log
+*.json
+*.xml
+*.gz
+*.png
+*.jpg
+*.arff
+*.pkl
+.tmp
+.results
+# Except this file
+!.gitignore
+!.gitkeep
