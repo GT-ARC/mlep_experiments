@@ -2,7 +2,6 @@
 .*
 debug.json
 *.log
-*.json
 *.xml
 *.gz
 *.png
