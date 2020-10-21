@@ -1,7 +1,7 @@
 # Algorithm Selection Framework for budget limited any-time scenarios
 This repository contains the implementations and benchmarks for meta learning evaluation policies for selecting machine learning algorithms in a budget-constrained setting.
 
-For the algorithms, see [subfolger /algs](/algs/readme.md).
+For the algorithms, see the [subfolder /algs](/algs/readme.md).
 
 # Benchmarks
 Running a benchmark happens by modifying the scrip run_benchmarks.py and then executing it with python. Within that file, one can comment/uncomment which mlep-approaches should be tested and on which benchmark they should be run. The individual benchmarks are setup in the files benchmarks_*.py.
